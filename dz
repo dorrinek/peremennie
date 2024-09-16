@@ -1,0 +1,5 @@
+dz = 12
+hour = 1.5
+name_kurs = 'Python'
+time_for_dz = hour / dz
+print('Курс:', name_kurs, 'всего задач:', dz, 'затачено часов:', hour, 'среднее время выполнения', time_for_dz, 'часа.')
